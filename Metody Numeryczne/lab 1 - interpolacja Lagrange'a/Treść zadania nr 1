@@ -1,0 +1,13 @@
+W dołączonym do zadania pliku „interpolacja_gr_*.txt” znajdują się dane do zadania (𝑥𝑖, 𝑓(𝑥𝑖)).
+Dane należy skopiować z fragmentu oznaczonego liczbą porządkową, taką samą jak na liście obecności.
+Dane do zadania należy zapisać do nowego pliku tekstowego, który będzie odczytywany przez program.
+
+a) napisz program w wybranym języku implementujący interpolację Lagrange’a:
+· wszystkie dane wczytywane są przez program z pliku tekstowego: współrzędne węzłów i wartości funkcji
+· do interpolacji Lagrange’a wykorzystaj co piąty punkt danych
+· program oblicza wartość wielomianu interpolacyjnego w punkcie wpisanym z klawiatury przez użytkownika
+· oblicz średni błąd kwadratowy dla wszystkich punktów danych
+
+b) napisz program obliczający wartość funkcji y=11+x2 w zadanym przedziale [-5,5].
+Zbadaj jak zmienia się dokładność obliczeń w zależności od liczby węzłów interpolacji.
+Plik programu oraz plik własnych danych należy zapisać w Teams w udostępnionym zadaniu.
