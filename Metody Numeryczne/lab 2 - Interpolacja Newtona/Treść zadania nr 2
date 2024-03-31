@@ -1,0 +1,13 @@
+W dołączonym do zadania plikach: „interpolacja_H_gr_*.txt” i „interpolacja_N_gr_*.txt” znajdują się dane do zadania.
+Dane należy skopiować z fragmentu oznaczonego liczbą porządkową, taką samą jak na liście obecności.
+Dane do zadania należy zapisać do nowych plików tekstowych, który będą odczytywane przez program.
+
+a) Wczytywanie z pliku tekstowego „interpolacja_H_gr_*.txt” danych do programu: wartości współczynników wielomianu (𝑎0,𝑎1,…,𝑎𝑛) i współrzędne punktów (𝑥0,𝑥1,…,𝑥𝑚). Rozpocznij obliczenia dla n=3.
+· Obliczanie wartości wielomianu zadanego w postaci naturalnej dla wartości 𝑥 wczytanej z pliku „interpolacja_H_gr_*.txt”.
+· Obliczanie wartości wielomianu według schematu Hornera dla wartości 𝑥 wczytanej z pliku „interpolacja_H_gr_*.txt”
+· Porównanie szybkość i dokładność obliczeń wartości wielomianów dwoma powyższymi metodami.
+
+b) Obliczanie i wypisanie wartości współczynników 𝑎𝑖 wielomianu w postaci Newtona na podstawie danych z pliku „interpolacja_N_gr_*.txt”. Rozpocznij obliczenia przyjmując np. co piąty punkt węzłowy.
+· Sprawdź dla jakiej liczby punktów węzłowych otrzymane wartości interpolacji wielomianem Newtona dają najdokładniejsze wyniki.
+· Dla dowolnej wartości 𝑥 wpisanej z klawiatury, program wypisuje wartość wielomianu.
+· Oblicz błąd obliczeń w porównania z wartościami w pliku „interpolacja_H_gr_*.txt”.
