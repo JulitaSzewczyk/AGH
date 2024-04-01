@@ -5,4 +5,4 @@ Napisz program implementujący:
 •uwzględnij przypadek liniowej zależności wierszy i częściowy pivoting.
 
 Dodaję 3 programy (MacierzA.cpp, MacierzB.cpp, MacierzC.cpp), ale różnią się one jedynie wczytanymi danymi.
-DaneGA.txt zawierają wartości zwykłej macierzy, DaneGB.txt sprawdzają, czy została zaimplementowana liniowa zależność wierszy, a DaneGC.txt sprawdzają pivoting.
+DaneGA.txt zawierają wartości zwykłej macierzy, wektory z DaneGB.txt są liniowo zależne, a elementy prowadzące w DaneGC.txt są zerowe.
