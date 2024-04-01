@@ -1,1 +1,5 @@
-
+Napisz program implementujący:
+•wczytywanie z pliku tekstowego danych do programu: liczby niewiadomych 𝑛, współczynnikówrównania 𝑎𝑖𝑗 i wyrazów wolnych 𝑏𝑖
+•wypisz macierze otrzymane w kolejnych krokach algorytmu
+•wypisz otrzymane rozwiązanie równania
+•uwzględnij przypadek liniowej zależności wierszy i częściowy pivoting.
